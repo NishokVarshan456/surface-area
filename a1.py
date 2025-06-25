@@ -63,6 +63,6 @@ while line:
     else:
         line=file.readline()
 
-print(tot_area)
+print(tot_area:.4f,"sq units")
 file.close()
 
